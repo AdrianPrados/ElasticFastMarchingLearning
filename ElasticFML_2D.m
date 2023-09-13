@@ -7,13 +7,14 @@ addpath('algorithms');
 addpath('test');
 addpath('examples');
 addpath('fm2tools');
+addpath('data')
 
 %% Setup simulated demos
 N = 1000;
 t = linspace(0, 10, N);
 t = reshape(t, [N, 1]);
 % Create your own data
-n=1; %Number of data to be acquired (can be modified to more than 1)
+n=4; %Number of data to be acquired (can be modified to more than 1)
 data = [];
 [x1,constrains] = CaptureData(n);
 
