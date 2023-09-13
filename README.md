@@ -10,11 +10,11 @@ In this repository we present the code for a novel method for learning skills fr
 To be used on your device, follow the installation steps below.
 
 **Requierements:**
-- Matlab 2021b or higher
+- Matlab 2020b or higher
 
 
 ## Install from source
-Firstly, clone the repository in your system.
+You can clone the repository on your system.
 ```bash
 git clone https://github.com/AdrianPrados/ElasticFastMarchingLearning.git
 ```
