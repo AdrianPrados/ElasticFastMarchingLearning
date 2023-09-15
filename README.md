@@ -118,7 +118,7 @@ The code was written and tested on MATLAB 2021b in Ubuntu 20.04. The final pick 
 # Citation
 This work has been done by [Adrián Prados](http://roboticslab.uc3m.es/roboticslab/people/prados) and [Brendan Hertel](https://github.com/brenhertel). Both authors has contributed equally.
 
-If you have any question about the algorithm presented, please contact with Adrián Prados (aprados@pa.uc3m.es) and Brendan Hertel (brendan_hertel@student.uml.edu). If you use this code or the data please cite the following papers:
+If you have any question about the algorithm presented, please contact with Adrián Prados (aprados@ing.uc3m.es) and Brendan Hertel (brendan_hertel@student.uml.edu). If you use this code or the data please cite the following papers:
 
 ### Paper for Fast Marching Learning
 ```bibtex
